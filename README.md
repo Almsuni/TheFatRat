@@ -1,5 +1,5 @@
 
-# TheFatRat 
+# The-miguna-exploit-roolkit
 
 [![Version](https://img.shields.io/badge/TheFatRat-1.9.7-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-Whistle-red.svg?maxAge=259200)]()
@@ -81,6 +81,6 @@ All notable changes to this project will be documented in this [file](https://gi
 - [Gauli(dot)Net](https://gauli.net/) - Lab Penetration
 
 ## License
-TheFatRat is made with 🖤 by Edo Maland & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
+TheFatRat is made with 🖤 by Ali Adan (alimsuni) & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
 
 
